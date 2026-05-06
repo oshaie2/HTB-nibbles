@@ -43,7 +43,7 @@ Identified CMS:
 👉 **Nibbleblog**
 
 ### 📸 Evidence
-![Web Discovery](nmap.png)
+![Web Discovery](login.png)
 
 ---
 
