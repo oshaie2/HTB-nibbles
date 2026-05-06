@@ -72,7 +72,7 @@ nc -lvnp 8443
 Received reverse shell:
 
 ### 📸 Evidence
-![Shell Access](ssh-access.png)
+![Shell Access](low-privileged-shell.png)
 
 ```bash
 id
